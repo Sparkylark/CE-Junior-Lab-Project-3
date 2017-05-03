@@ -1,0 +1,2 @@
+# CE-Junior-Lab-Project-3
+Hangman game played with PS/2 keyboard with scan codes decoded using IC chips on a breadboard and translated into ASCII.  ASCII characters are then sent via UART to this software to play hangman with a user-friendly GUI and pictures that indicate current game state.  The software also sends data via UART to control a breadboard-mounted LCD and 7-segment display to display game state and incorrect guesses remaining.  Written using Visual Studio in C#.
